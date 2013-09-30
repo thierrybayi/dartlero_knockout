@@ -1,0 +1,8 @@
+name: dartlero_knockout
+version: 0.0.1
+author: Thierry Bayi
+description: A model of Knockout.js, a TodoMVC application.
+dependencies:
+  dartlero:
+    git: git://github.com/dzenanr/dartlero.git
+
